@@ -1,5 +1,7 @@
 # The Conversational UI Handbook
 
+[![Join the chat at https://gitter.im/conversational-ui/Lobby](https://badges.gitter.im/conversational-ui/Lobby.svg)](https://gitter.im/conversational-ui/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 Here is your guide into the Converstaional UI world.
 
 Feel free to share this content under [a CC license](https://creativecommons.org/licenses/by-sa/4.0/ "CC-BY-SA").
